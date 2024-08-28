@@ -8,7 +8,7 @@ The framework is built on an extensible modular-based codebase, comprising an in
 
 ### Datasets
 
-  Follow DATASET.md to download datasets and then run prepareall.py.
+  Follow Dataprepro/DATASET.md to download datasets and then run prepareall.py.
 
 ### Algorithms
 
