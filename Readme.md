@@ -1,6 +1,7 @@
 # TSTBench
 
 Codes for "TSTBench: A Comprehensive Benchmark for Text Style Transfer"
+The framework is built on an extensible modular-based codebase, comprising an input module, a transfer module, as well as an evaluation and analysis module. Currently, we have incorporated 13 SOTA methods on TST and multiple visual analysis tools. 
 
 * Datasets
 
