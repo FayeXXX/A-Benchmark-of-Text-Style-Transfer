@@ -15,7 +15,7 @@ Thanks to these open source codes, we reimplement these algorithms based on the 
 **STYTRANS**
 
 @article{2019style,
-  title={Style transformer: Unpaired text style transfer without disentangled latent representation},
+  title={Style transformer: Unpaired text style transfer without disentangled latent representation},< br >
   author={Dai, Ning and Liang, Jianze and Qiu, Xipeng and Huang, Xuanjing},
   journal={arXiv preprint arXiv:1905.05621},
   year={2019}
