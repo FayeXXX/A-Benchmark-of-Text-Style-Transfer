@@ -1,0 +1,1 @@
+domain	acc	self_bleu	ref_bleu	fwppl	self_g2	self_h2	g2	h2	overall

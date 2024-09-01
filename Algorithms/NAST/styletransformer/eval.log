@@ -1,0 +1,9 @@
+2024-01-05 20:46:34 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-05 20:44:33 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-05 20:43:28 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-05 20:43:28 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-06 17:46:18 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-06 17:45:32 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-06 17:45:57 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 done
+2024-01-06 17:43:09 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 failed
+2024-01-06 17:42:35 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset amazon 1.0 failed

@@ -1,0 +1,42 @@
+ --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em failed
+ --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em failed
+2023-12-27 21:32:13 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset yegyafc_emlp failed
+2023-12-27 21:32:13 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset yegyafc_emlp failed
+2023-12-28 10:08:11 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_fr failed
+2023-12-28 10:08:11 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_fr failed
+ --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em done
+2023-12-27 21:37:45 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_em done
+ --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em done
+2023-12-27 21:37:45 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_em done
+2023-12-28 10:16:20 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_fr done
+2023-12-28 10:16:20 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_fr done
+2023-12-28 19:29:16 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset yegyafc_emlp failed
+2023-12-28 19:29:16 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset yegyafc_emlp failed
+ --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em failed
+ --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em failed
+2023-12-29 11:05:24 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset gyafc_fr 1.5 done
+2023-12-29 11:05:24 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset gyafc_fr 1.5 done
+2023-12-29 11:09:08 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_em done
+2023-12-29 11:09:08 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset gyafc_em done
+ --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em done
+ --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor 1.5 --dataset gyafc_em done
+2024-01-01 15:08:36 --self_factor  --cyc_factor  --fw_adv_factor 1.5 --bw_adv_factor --dataset gyafc_fr 1.5 failed
+2024-01-01 15:09:10 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset gyafc_fr 1.5 failed
+2024-01-01 15:20:08 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 failed
+2024-01-01 15:20:08 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 failed
+2024-01-01 15:21:23 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes failed
+2024-01-01 15:21:23 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes failed
+2024-01-01 20:46:56 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-01 20:46:56 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-01 20:46:27 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes done
+2024-01-01 20:52:25 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-01 20:46:27 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes done
+2024-01-01 20:52:25 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-02 09:52:31 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-02 09:53:06 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-02 09:52:31 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-02 09:53:06 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.5 --bw_adv_factor --dataset shakes 1.0 done
+2024-01-02 09:54:54 --self_factor 0.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes done
+2024-01-02 09:54:54 --self_factor 1.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes done
+2024-01-03 09:59:32 --self_factor 1.5 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes done
+2024-01-03 10:00:07 --self_factor 2.0 --cyc_factor 0.25 --fw_adv_factor 1.0 --bw_adv_factor 1.0 --dataset shakes done

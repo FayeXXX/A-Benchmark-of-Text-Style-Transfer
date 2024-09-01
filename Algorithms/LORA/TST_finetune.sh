@@ -1,0 +1,15 @@
+python TST_finetune.py \
+    --adapter_name 'LORA' \
+    --base_model '/home/xyf/LanguageModel/huggingface/yahma/llama-7b-hf' \
+    --num_epochs 3 \
+    --cutoff_len 512 \
+    --learning_rate 2e-5 \
+    --group_by_length \
+    --output_dir './ft-alpaca' \
+    --lora_target_modules '[q_proj,k_proj,v_proj,o_proj,up_proj,down_proj]' \
+    --lora_r 16 \
+    --num_virtual_tokens 64 \
+    --micro_batch_size 4 \
+    --batch_size 32 \
+    --dataset styleptb_ARR \
+    --transfer arr

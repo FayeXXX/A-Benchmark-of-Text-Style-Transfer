@@ -1,0 +1,16 @@
+python finetune_adalora.py \
+  --base_model /home/xyf/LanguageModel/huggingface/yahma/llama-7b-hf \
+  --data_path /home/xyf/PycharmProjects/BENCHMARKforTST/alpaca-lora-main/alpaca_data_cleaned.json \
+  --output_dir ./output \
+  --num_epochs 3 \
+  --learning_rate 3e-4 \
+  --cutoff_len 512 \
+  --adapter_name LORA \
+  --orth_reg_weight 0.01 \
+  --lora_alpha 64 \
+  --num_virtual_tokens 64 \
+  --target_r 32 \
+  --init_r 46 \
+  --eval_step 1000 \
+  --save_step 1000 \
+  --wandb_project llama
